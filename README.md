@@ -4,10 +4,11 @@
 Intern Management System developed using PHP, HTML, CSS, JavaScript, and Bootstrap.
 
 ## Features Included
-- Student registration
-- Internship application management
-- Admin dashboard
-- Login system
+- Login page 
+- Dashboard page
+- Internship applications page
+- Companies list page
+- Logout functionality
 
 ## Instructions to Test Login
 Username: admin  
