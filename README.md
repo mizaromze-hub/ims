@@ -19,3 +19,4 @@ Password: 1234
 - PHP
 - JavaScript
 - MySQL
+- CSS
