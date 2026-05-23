@@ -1,7 +1,7 @@
-## IMS566 Individual Project
+## IMS566 Individual Project - InternTrack
 
 ## Project Description
-Intern Management System developed using PHP, HTML, CSS, JavaScript, and Bootstrap.
+InternTrack is a management system developed using PHP, HTML, CSS, JavaScript, and Bootstrap.
 
 ## Features Included
 - Login page 
